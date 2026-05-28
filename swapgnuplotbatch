@@ -5,4 +5,4 @@ set grid
 show grid
 set xlabel "UNSORTED COUNT"
 set ylabel "SWAPS"
-plot 'swapstats' u 1:2 w lines lw 1 t 'Heapsort', 'swapstats' u 1:3 w lines lw 1 t 'Quicksort'
+plot 'swapstats' u 1:2 w lines lw 1 t 'Quick Sort', 'swapstats' u 1:3 w lines lw 1 t 'Heap Sort'
