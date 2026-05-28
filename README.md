@@ -6,3 +6,7 @@ heapsort on random data.  In the code, I had to call my function
 function.
 
 Requires gcc, make, the unix utility `cut`,  and gnuplot.
+
+## Results
+
+ ![swap_results](https://github.com/zettix/compare_heapsort_quicksort/blob/main/swap_comparison_heap_quick.png)
